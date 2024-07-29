@@ -21,21 +21,21 @@ const TestimonialData = [
     id: 1,
     name: "Wachira",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+      "Walai food ya hii place inaslap mbaya!",
     img: "https://picsum.photos/101/101",
   },
   {
     id: 1,
     name: "Muthuri",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+      "Best burger in Thika road",
     img: "https://picsum.photos/102/102",
   },
   {
     id: 1,
     name: "Koget",
     testimonial:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque reiciendis inventore iste ratione ex alias quis magni at optio",
+      "Nilikuwa munchies, nikaorder food ikafika within five minutes! Walai nilikuwa nimeona malaika!",
     img: "https://picsum.photos/103/103",
   },
 ];
@@ -49,7 +49,7 @@ const Testimonial = () => {
             title="Testimonial"
             subtitle="What our customers say"
             description={
-              "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis delectus architecto error nesciunt,"
+              "What our customers say about us"
             }
           />
           {/* testimonial */}

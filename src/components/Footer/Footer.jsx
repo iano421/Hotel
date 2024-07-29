@@ -19,8 +19,7 @@ const Footer = () => {
               Kenya Fried Chicken{" "}
             </h1>
             <p className="">
-              Lorem ipsum dolor sit amet consectetur. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Possimus, voluptate.{" "}
+              The best Snack bar on Thika road!
             </p>
             <br />
             <div className="flex items-center gap-3">

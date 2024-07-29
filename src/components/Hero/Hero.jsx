@@ -17,7 +17,7 @@ const Hero = ({ addToCart }) => {
                   <br />
                   Kenya Fried Chicken (KFC)
                 </h1>
-                <p data-aos="fade-up" className="text-sm">
+                <p  className="text-sm">
                   Wachana na Kentucky, Hapa tukona Kuku kienyeji
                 </p>
                 <div data-aos-delay="300">
