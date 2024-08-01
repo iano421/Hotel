@@ -61,7 +61,7 @@ const Services = ({ addToCart }) => {
                   <p className="text-gray-500 duration-300 text-sm line-clamp-2">
                     {service.description}
                   </p>
-                  <p className="font-semibold italic">K$h {service.price}</p>
+                  <p className="font-semibold italic">Ksh {service.price}</p>
                 </div>
                 <div className="flex justify-center p-4">
                   <button
